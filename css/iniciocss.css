@@ -1,0 +1,55 @@
+@font-face {
+    font-family: lemon regular ;
+    src: url(../fontes/LEMONMILK-Regular.otf);
+}
+
+.tersem{position: relative;
+left: 950px;}
+
+.segsem{position: relative;
+left: 750px;}
+
+.prisem{position: relative;
+left: 550px;}
+
+.inicio{position: relative;
+left: 350px;}
+
+.logo{position: relative;
+left: 100px;
+top: 30px;}
+
+.binício{position: relative;
+left: 490px;}
+
+.eu{position: relative;
+top: 250px;
+left: 150px;
+width: 450px;}
+
+p{position: relative;
+text-align: center;
+font-family: lemon regular ;
+width: 600px;
+left: 900px;
+bottom: 250px;}
+
+.traçoazul{position: relative;
+left: 800px;
+bottom: 650px;}
+
+.traçover{position: relative;
+    left: 1300px;
+    bottom: 350px;}
+
+footer{background-color: #94C7D8;
+padding: 40px;}
+
+.behance{position: relative;
+left: 600px;}
+
+.instagram{position: relative;
+left: 800px;}
+
+.linkedin{position: relative;
+left: 1000px;}
